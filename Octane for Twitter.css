@@ -1,0 +1,61 @@
+:root {
+	/*Font customization*/
+	--title:		"Mate";
+	--body:			"Asap";
+	/*Colorscheme customization*/
+	--bg:			#001616;
+	--bg1:			#002121;
+	--bg2:			#004242;
+	--bg3:			#006363;
+	--border:		#164040;
+	--border1:		#2b8080;
+	--fg:   		#cde0e0;
+	--cyan: 		#70c3c3;
+	--magenta:		#ec71ec; 
+	--orange:		#d37749;
+	--yellow:		#dbca74;
+}
+body {
+	background-color: var(--bg) !important;
+	color:			  var(--fg) !important; }
+a { 
+	color:			  var(--cyan); }
+/*global selectors*/
+.r-jwli3a {
+	color:			  var(--fg); }
+.r-37j5jr {
+	font-family:	  var(--body); }
+/*tweet button*/
+.r-urgr8i {
+	background-color: var(--bg3); }
+/*...hover*/
+.r-1q3imqu {
+	background-color: var(--cyan); }
+/*timeline*/
+.r-3s2u2q {
+	font-family:	  var(--title); }
+.r-13hce6t .css-16my406 {
+	font-family:	  var(--title); }
+.r-yfoy6g {
+	background-color: var(--bg); }
+.r-18bvks7 {
+	border-color:     var(--border); }
+/*sidebars*/
+.r-135wba7 {
+	font-family:	  var(--title); }
+.r-1uaug3w {
+	background-color: var(--bg1); }
+.r-1uhd6vh {
+	border-color:     var(--border); }
+.r-1ila09b {
+	border-color:     var(--border); }
+.r-13gxpu9 {
+	color:			  var(--yellow); }
+.r-1n1174f {
+	color:			  var(--yellow); }
+.r-p1n3y5 {
+	border-color:	  var(--border1); }
+/*searchbar*/
+.r-aaos50 {
+	background-color: var(--bg1);
+	border-color:	  var(--border); }

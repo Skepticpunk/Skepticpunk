@@ -1,4 +1,4 @@
-Gamiac's Github.
+Skepticpunk's Github.
 
 Whatever I decide to fuck around with code/configwise and share with people will end up here in some capacity.
 
